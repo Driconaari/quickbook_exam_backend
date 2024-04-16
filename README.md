@@ -1,1 +1,1 @@
-[View PDF](ProgrammeringFall2023_3Semester.pdf)
+[View PDF](ProgrammeringFall2023_3Semester.pdf?raw=true)
